@@ -233,12 +233,13 @@
     
     footer div {
         display: block;
-        vertical-align: bottom;
+        margin-top: 50px;
         margin-left: 350px;
     }
     
     h1 {
         font-size: 86pt;
+        margin-left: 20px;
     }
     
     button {
@@ -251,4 +252,16 @@
     .logo {
         vertical-align: top;
         margin-left: 150px;
+    }
+    
+    footer address {
+        margin-left: 15px;
+    }
+    
+    footer h2 {
+        margin-left: 15px;
+    }
+    
+    nav {
+        margin-bottom: 15px;
     }
