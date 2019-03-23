@@ -240,3 +240,10 @@
     h1 {
         font-size: 86pt;
     }
+    
+    button {
+        background-color: white;
+        border: 1.5px solid grey;
+        padding: 5px 40px;
+        color: grey;
+    }
