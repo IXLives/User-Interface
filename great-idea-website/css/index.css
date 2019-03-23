@@ -247,3 +247,8 @@
         padding: 5px 40px;
         color: grey;
     }
+    
+    .logo {
+        vertical-align: top;
+        margin-left: 150px;
+    }
